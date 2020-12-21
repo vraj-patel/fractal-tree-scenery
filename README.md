@@ -1,3 +1,3 @@
 # fractal-tree-scenery
-An animated scenery created using pythagorean trees. This scenery is dynamic and can be changed by the values of wind speed 
+A highschool project to create an animated scenery of pythagorean fractal trees. This scenery is dynamic and can be changed by the values of wind speed 
 and season chosen by the user. Will need Windows Visual Studio to run executable file. 
